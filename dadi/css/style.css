@@ -1,0 +1,53 @@
+/* RESET */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.btn {
+    text-align: center;
+    margin: 2rem 0;
+}
+
+section {
+    display: flex;
+    justify-content: space-around;
+}
+
+.punteggio {
+    text-align: center;
+    font-size: 2rem;
+}
+
+#user-number,
+#pc-number {
+    font-size: 3rem;
+}
+
+#result {
+    text-align: center;
+    font-size: 4rem;
+    margin: 5rem 0;
+}
+
+.color-standard {
+    color: black;
+}
+
+.green {
+    color: greenyellow;
+}
+
+.red {
+    color: red;
+}
+
+.blue {
+    color: blue;
+}
